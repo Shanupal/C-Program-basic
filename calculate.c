@@ -19,6 +19,8 @@ void main(){
     break;
     case 4;
     printf("div =%f", a/b);
+
+    }
     break;
     default:
         printf("wrong choice")
